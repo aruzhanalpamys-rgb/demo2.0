@@ -280,11 +280,13 @@ input {
   border: 2px solid rgb(255, 77, 0);
   color: rgb(255, 77, 0);
   padding: 5px;
+  font-weight: 600;
 }
 .word-3 {
   border: 2px solid rgb(27, 141, 42);
   color: rgb(27, 141, 42);
   padding: 5px;
+  font-weight: 600;
 }
 .number-3 {
   color: white;
